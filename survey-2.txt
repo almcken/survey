@@ -3,5 +3,5 @@
 7, days (length of survey)
 5, occurances per day (windows)
 S2Q1,I am managing my time?,YES,S2Q2,NO,S2Q2
-S2Q2,I adjust when tasks are more challenging?,YES,S2Q3,NO,S2Q3
-S2Q3,I take breaks when needed?,YES,END,NO,END
+S2Q2,I am paying attention to my tasks?,YES,S2Q3,NO,S2Q3
+S2Q3,I am pacing myself on tasks?,YES,END,NO,END
