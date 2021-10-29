@@ -3,6 +3,6 @@ null, YYYY-MM-DD (start date)
 1, days (length of survey)
 25, occurances per day (windows)
 S9Q1:Have you had a headache pain level? 1 no pain. 9 max pain., 0:S9Q2, 1:S9Q3, 2:S9Q3, 3:S9Q4, 4:S9Q4, 5:END, 6:S9Q2, 7:S9Q2, 8:S9Q2, 9:S9Q2, 10:S9Q2
-S9Q2:Did you take meds? Did the candy help you? What day is it?, yes:S9Q3, no:S9Q3 
+S9Q2:Did you take meds? Did the candy help you? What day is it?, yes:S9Q3, Moderate:S9Q3 
 S9Q3:Did you take drugs? Did the drugs help you? What time is it? What is your favrote thing to do?, yes:S9Q4, no:S9Q4 , Sugar Free:S9Q4
 S9Q4:What time is it?, yes:END, no:END , Candy:END, Fish:END
