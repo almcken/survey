@@ -1,7 +1,7 @@
 null, YYYY-MM-DD (start date)
 8, start time of day in 2-digit hour format (HH) 0 - 23
 1, days (length of survey)
-10, occurances per day (windows)
+O:10, occurances per day (windows)
 S9Q1:How strongly do you agree with the following statement: company’s payment process is simple and painless., Very Strongly disagree:S9Q2, Neither agree nor disagree:S9Q2, Very Strongly agree:S9Q2
 S9Q2:How likely are you to recommend us to a friend or colleague on a scale of 0-10?, 1:S9Q3, 2:S9Q3, 3:S9Q3, 4:S9Q3, 5:S9Q3, 6:S9Q3, 7:S9Q3, 8:S9Q3, 9:S9Q3
 S9Q3:What are you using DAP for?, Personal:S9Q4, Business Use:S9Q4 
