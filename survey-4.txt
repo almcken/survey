@@ -3,5 +3,5 @@ null, YYYY-MM-DD (start date)
 3, days (length of survey)
 5, occurances per day (windows)
 S4Q1:I have a headache., YES:S4Q2, NO:END
-S4Q2:How intense was the headache?,Mild,S4Q3,Moderate,S4Q3,Severe,S4Q3
+S4Q2:How intense was the headache?,Mild:S4Q3,Moderate:S4Q3,Severe:S4Q3
 S4Q3,Headache is interfering with my activities?,YES:END,NO:END
