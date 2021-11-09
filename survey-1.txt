@@ -3,4 +3,4 @@ null, YYYY-MM-DD (start date)
 15, days (length of survey)
 0, occurances per day (windows)
 S1Q1:I drank alcohol yesterday., YES:S1Q2, NO:END
-S1Q2:How many standard drinks did you ahve yeserday?, 1-2:END, 3-4:END, 5-6:END, >6:END
+S1Q2:How many standard drinks did you have yesterday?, 1-2:END, 3-4:END, 5-6:END, >6:END
