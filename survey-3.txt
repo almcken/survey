@@ -1,7 +1,1 @@
-null, YYYY-MM-DD (start date)
-08, start time of day in 2-digit hour format (HH) 0 - 23
-7, days (length of survey)
-5, occurances per day (windows)
-S3Q1,I take time to process information?,YES,S3Q2,NO,S3Q2
-S3Q2,I prepared tomorrow’s schedule?,YES,S3Q3,NO,S3Q3
-S3Q3,I am using memory strategies?,YES,END,NO,END
+
